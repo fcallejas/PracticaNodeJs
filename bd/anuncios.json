@@ -1,0 +1,39 @@
+{
+    "anuncios":[
+        {
+            "nombre":"Bicicleta",
+            "venta":true,
+            "precio":650,
+            "foto":"bici.png",
+            "tags":["lifestyle","motor"]
+        },
+        {
+            "nombre":"Samsung galaxy s7 Edge",
+            "venta":true,
+            "precio":1500,
+            "foto":"samsungs7.jpg",
+            "tags":["work","mobile","lifestyle"]
+        },
+        {
+            "nombre":"Lenovo ThinkPad 13",
+            "venta":true,
+            "precio":2100,
+            "foto":"lenovo.jpg",
+            "tags":["work","lifestyle"]
+        },
+        {
+            "nombre":"Patineta",
+            "venta":true,
+            "precio":100.50,
+            "foto":"patineta.jpg",
+            "tags":["lifestyle","work"]
+        },
+        {
+            "nombre":"Iphone 3gs",
+            "venta":false,
+            "precio":70,
+            "foto":"iphone3.jpg",
+            "tags":["lifestyle","mobile"]
+        }
+    ]
+}
